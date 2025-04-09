@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <strong>A platform for developers and researchers to explore, extend, and deploy the Tangled Program Graphs reinforcement learning framework.</strong>
+  <strong>A platform for developers and researchers to explore and extend the Tangled Program Graphs reinforcement learning framework.</strong>
 </p>
 
 <p align="center">
   <a href="#">Documentation</a>
 </p>
 
-Tangled Program Graphs (TPG) is a novel reinforcement learning framework combining the power of genetic algorithms. This organization provides the tools and resources needed to build, experiment with, and improve the TPG framework, fostering a collaborative environment for AI innovation.
+Tangled Program Graphs (TPG) is a novel reinforcement learning framework built upon genetic algorithms. This organization provides the tools and resources needed to build, experiment with, and improve the TPG framework, fostering a collaborative environment for AI innovation.
 
 ## Getting Started
 
-- 📚 Read the [Documentation]( ) for guides and tutorials
+- 📚 Read the [Documentation]() for guides and tutorials
 
 ## Project Structure
 
@@ -26,7 +26,7 @@ Tangled Program Graphs (TPG) is a novel reinforcement learning framework combini
 
 ## Contributing
 
-We welcome contributions of all kinds!  We are still setting up our contribution guidelines, but stay tuned!
+We welcome contributions of all kinds! We are still setting up our contribution guidelines, but stay tuned!
 
 ## About
 
