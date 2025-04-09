@@ -1,7 +1,7 @@
 # Tangled Program Graphs
 
 <p align="center">
-  <img src="assets/logo.png" alt="TPG Logo" />
+  <img src="assets/logo.png" alt="TPG Logo" width=200 />
 </p>
 
 <p align="center">
