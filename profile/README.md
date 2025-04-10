@@ -20,7 +20,9 @@ Tangled Program Graphs (TPG) is a novel reinforcement learning framework built u
 
 ## Project Structure
 
-- [tpg](https://github.com/TangledProgramGraphs/tpg) - C++ reinforcement learning framework at the core of TPG.
+- [framework](https://github.com/TangledProgramGraphs/framework) - C++ reinforcement learning framework at the core of TPG.
+- [cli](https://github.com/TangledProgramGraphs/cli) - CLI tool to manage experiments using Tangled Program Graphs.
+- [api](https://github.com/TangledProgramGraphs/api) - The official API to manage and interact with Tangled Program Graph experiments.
 - [playground](https://github.com/TangledProgramGraphs/playground) - Interactive web platform for visualizing and experimenting with TPG agents.
 - [animations](https://github.com/TangledProgramGraphs/animations) - Educational Manim animations illustrating the inner workings of the TPG framework.
 
@@ -30,4 +32,4 @@ We welcome contributions of all kinds! We are still setting up our contribution 
 
 ## About
 
-Tangled Program Graphs is an open-source project developed by the Creative Algorithms Lab under Dr. Stephen Kelly, and the capstone group consisting of Cyruss Amante, Calvyn Siong, Mark Cruz, Edward Gao, and Richard Li.
+Tangled Program Graphs is an open-source project developed by the Creative Algorithms Lab under Dr. Stephen Kelly.
